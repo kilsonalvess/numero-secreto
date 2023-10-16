@@ -6,7 +6,7 @@
 
 // while (chute != numeroSecreto) {
 
-//     let chute = prompt('Escolha um número entre 1 e 50')
+//     let chute = prompt('Escolha um número entre 1 e 200')
 
 //     if (chute == numeroSecreto) {
 //         break
